@@ -50,9 +50,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - A-Frame: https://aframe.io/
 - Streamlit: https://streamlit.io/
 
-## Screenshot
 
-![Screenshot of the Web App](screenshot.png)
 
 ---
 
